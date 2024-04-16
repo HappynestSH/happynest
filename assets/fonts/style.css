@@ -1,0 +1,15 @@
+@font-face {
+   font-family: 'Montserrat-Regular copy';
+   font-display: swap;
+   src: url('Poppins-Regular.ttf');
+}
+@font-face {
+   font-family: 'Montserrat-Bold copy';
+   font-display: swap;
+   src: url('Poppins-Bold.ttf');
+}
+@font-face {
+   font-family: 'Montserrat-Black copy';
+   font-display: swap;
+   src: url('Poppins-Bold.ttf');
+}
